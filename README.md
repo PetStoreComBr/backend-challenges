@@ -61,6 +61,7 @@ Feel free to contribute! Only open-source challenges please!
 | :canada: | [Paytm Labs - 2](https://paytmlabs.com/) | Any Language | [Code →](https://github.com/PaytmLabs/SoftwareChallenge)
 | :brazil: | [Perfect Pay](https://perfectpay.com.br/) | PHP, Laravel | [Code →](https://github.com/perfectpay/perfect-test-backend)
 | :brazil: | [Petlove](https://www.petlove.com.br/) | Ruby, Rails & Any Database | [Code →](https://github.com/petlove/vagas/tree/master/backend-ruby)
+| :brazil: | [PetStore.com.br](https://www.petstore.com.br/) | Any Language | [Code →](https://github.com/petlove/vagas/tree/master/backend-ruby)
 | :uk: | [PhotoBox](http://www.photobox.co.uk/) | .NET | [Code →](https://github.com/photobox/Moonpig.Recruitment)
 | :brazil: | [PicPay](https://picpay.com/) | Java (Spring Boot), PHP (Lumen) & (MySQL or MongoDB) | [Code →](https://github.com/PicPay/picpay-desafio-backend)
 | :brazil: | [RedFoxTech](https://redfox.tech/) | Node.js, REST API & Any Database | [Code →](https://github.com/RedFoxTech/vaga-backend-teste)
